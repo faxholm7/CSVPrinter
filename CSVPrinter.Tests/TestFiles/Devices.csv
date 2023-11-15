@@ -1,0 +1,25 @@
+1234567890,test a,
+ABCDEFGHIJ,test a,
+A1C2E3G4I5,test a,
+1234567890,test a
+ABCDEFGHIJ,test a
+A1C2E3G4I5,test a
+1234567890,test a,Info x
+ABCDEFGHIJ,test a,Info x
+A1C2E3G4I5,test a,Info x
+
+123456789,test a,Info xx
+ABCDEFGHI,test a,Info xx
+A1C2E3G4I,test a,Info xx
+12345678 9,test a,Info xx
+ABCDEFGH I,test a,Info xx
+A1C2E3G4 I,test a,Info xx
+
+123456789!,test a,Info xy
+ABCDEFGHI!,test a,Info xy
+A1C2E3G4I!,test a,Info xy
+
+1234567890,test 1,Info xz
+ABCDEFGHIJ,test 1,Info xz
+A1C2E3G4I5,test 1,Info xz
+

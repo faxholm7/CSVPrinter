@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVPrinter", "CSVPrinter\CSVPrinter.csproj", "{AC9E2B8F-EC45-4746-B523-EEA69DC7D853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVPrinter.Tests", "CSVPrinter.Tests\CSVPrinter.Tests.csproj", "{EFD19762-4CFD-4369-8535-0DDE0020406F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9E2B8F-EC45-4746-B523-EEA69DC7D853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9E2B8F-EC45-4746-B523-EEA69DC7D853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9E2B8F-EC45-4746-B523-EEA69DC7D853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9E2B8F-EC45-4746-B523-EEA69DC7D853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD19762-4CFD-4369-8535-0DDE0020406F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD19762-4CFD-4369-8535-0DDE0020406F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD19762-4CFD-4369-8535-0DDE0020406F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD19762-4CFD-4369-8535-0DDE0020406F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A933BD-5DEC-4A2B-BDD7-2E83F45D4805}
+	EndGlobalSection
+EndGlobal
